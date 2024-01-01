@@ -11,7 +11,5 @@
 <img src="https://img.shields.io/badge/javascript-0D1116?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/react-0D1116?style=for-the-badge&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/typescript-0D1116?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-</div>
-
-
+</div><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyranoboy1&show_icons=true&theme=radical)
