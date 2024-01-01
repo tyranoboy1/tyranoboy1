@@ -7,7 +7,7 @@
 ### Skills
 <div style="display:flex">
 <img src="https://img.shields.io/badge/javascript-0D1116?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/react-0D1116?style=for-the-badge&logo=Notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/react-0D1116?style=for-the-badge&logo=Notion&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>
