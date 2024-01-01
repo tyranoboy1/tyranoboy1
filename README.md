@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 ### Contact
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=000000"/>
 
 ### Document
 <a href="https://www.notion.so/FrontEnd-Developer-e06ae84f8ae94b83bee9e457dc557466" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
