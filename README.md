@@ -4,7 +4,8 @@
 ### Document
 <a href="https://www.notion.so/FrontEnd-Developer-e06ae84f8ae94b83bee9e457dc557466" target="_blank"><img src="https://img.shields.io/badge/Notion-0D1116?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
 
-### Skills & Language
+### Skills
+<p><strong>Languages & Skill</strong></p>
 <div style="display:flex">
 <img src="https://img.shields.io/badge/html5-0D1116?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/css-0D1116?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
