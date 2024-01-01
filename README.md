@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a growing Front-End developer.
+### I`m a growing Front-End developer.
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=JiHoon&%20render&fontSize=90" />
 
 ### 👊 Document 
