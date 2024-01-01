@@ -3,8 +3,8 @@
 
 ### Contact
 <div style="display:flex">
-<img src="https://img.shields.io/badge/tyrano0113@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/gkwlgnd@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/tyrano0113%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/gkwlgnd%40naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=ffffff"/>
 </div>
 
 ### Document
