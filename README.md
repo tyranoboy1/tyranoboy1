@@ -6,11 +6,9 @@
 
 ### Skills
 <div style="display:flex">
+  <img src="https://img.shields.io/badge/html5-0D1116?style=for-the-badge&logo=javascript&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/css-0D1116?style=for-the-badge&logo=javascript&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/javascript-0D1116?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/react-0D1116?style=for-the-badge&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/typescript-0D1116?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Notion-0D1116?style=for-the-badge&logo=Notion&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Notion-0D1116?style=for-the-badge&logo=Notion&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Notion-0D1116?style=for-the-badge&logo=Notion&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Notion-0D1116?style=for-the-badge&logo=Notion&logoColor=000000"/>
 </div>
