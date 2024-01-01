@@ -6,12 +6,11 @@
 
 ### Skills
 <div style="display:flex">
-<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white"/>
-
-  
+<img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>
 </div>
