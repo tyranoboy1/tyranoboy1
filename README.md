@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/react-0D1116?style=for-the-badge&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/react_native-0D1116?style=for-the-badge&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/typescript-0D1116?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/next-0D1116?style=for-the-badge&logo=nextdotjs&logoColor=000000/>
+<img src="https://img.shields.io/badge/next-0D1116?style=for-the-badge&logo=nextdotjs&logoColor=000000"/>
 </div>
 
 ### Stats
